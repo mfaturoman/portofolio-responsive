@@ -1,7 +1,4 @@
 # portofolio-responsive
-
-### Portfolio-Responsive-2021
-
 Merupakan website porfolio yang saya buat di tahun 2022 dengan tujuan bisa menunjukkan bakat, keahlian dan pengalaman yang telah saya miliki. dalam membuat website ini saya menggunakan html, css, & javascript.
 
 ### Sections
